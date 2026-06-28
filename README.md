@@ -1,5 +1,8 @@
 # Ryot Library Tools (v10)
 
+![Python 3](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A set of Python scripts to automate, import, and manage your Movies and TV Shows library on your self-hosted **Ryot** (v10+) server using its GraphQL API.
 
 ## 📁 File Structure
